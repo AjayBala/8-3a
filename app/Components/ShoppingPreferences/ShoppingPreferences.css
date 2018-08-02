@@ -1,0 +1,67 @@
+.ShoppingBox
+{
+    width: 100%;
+    height: auto;
+    bottom: 0px;
+    top: 0px;
+    left: 30%;
+    position: absolute;
+}
+
+.Products
+{
+    margin-left: 42%;
+  margin-top: 8%;
+}
+
+.finalbutton
+
+{
+    margin-left: 33%;
+}
+
+.Terms1
+
+
+{
+    margin-left: 28%;
+}
+
+.Terms2
+{
+    margin-left: 47.5%;
+    margin-top:-1.4em;
+
+}
+
+.btn-primary, .btn-secondary
+
+{
+  background-color: dimgrey;
+  color:white;
+  width: 22%;
+  height: 45px;
+}
+
+.ShoppingBoxWrap
+
+{margin-left: 33%;
+
+}
+
+
+.Products
+{
+   zoom: 120%;
+   margin-left: 2%;
+}
+.text
+
+{
+    margin-left: 18%;
+}
+
+.clicks
+{
+    margin-left: 28%;
+}
